@@ -1,4 +1,4 @@
-## Oi eu sou João Paulo, entusiasta de tecnologia e amante de projetos pessoais inacabados :D
+## Oi eu sou João Paulo, entusiasta de tecnologia e gosto de me extressar com o vim no tempo livre :D
 
 <div align="center">
   <a href="https://github.com/Dragonflip">
